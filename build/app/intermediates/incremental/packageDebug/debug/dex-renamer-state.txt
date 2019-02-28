@@ -1,0 +1,4 @@
+#Tue Feb 05 12:54:54 IST 2019
+base.0=D\:\\MachineLearning\\eTailorUI\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,48 @@
+name: flutter_app_tablayout
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.2
+  intro_slider: ^1.1.4
+  image_picker:  ^0.5.0+1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - lib/assets/ic_camera_frame.png
+    - lib/assets/ic_female_full.png
+    - lib/assets/ic_male.png
+    - lib/assets/ic_female.png
+    - lib/assets/loading_bg.png
+    - lib/assets/splash_bg.png
+    - lib/assets/front_instruction.jpg
+    - lib/assets/side_instruction.jpg
+
+  fonts:
+     - family: Billabong
+       fonts:
+         - asset: lib/fonts/Billabong.ttf
+     - family: Nunito
+       fonts:
+         - asset: lib/fonts/Nunito.ttf
