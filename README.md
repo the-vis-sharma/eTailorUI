@@ -2,6 +2,7 @@
 Final Year Major Project For Human Body Measurement for Custom Cloths fitting.
 
 # Screenshots
+<img src="/../master/Screenshots/Screenshot_1.png?raw=true" width="200" height="400" />
 ![Alt text](/../master/Screenshots/Screenshot_1.png?raw=true | width=100)
 ![Alt text](/../master/Screenshots/Screenshot_2.png?raw=true | width=100)
 ![Alt text](/../master/Screenshots/Screenshot_3.png?raw=true | width=100)
